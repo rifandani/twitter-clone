@@ -1,0 +1,5 @@
+.profile__badgeIcon {
+  color: var(--twitter-color);
+  font-size: 15px !important;
+  margin-bottom: 5px !important;
+}
